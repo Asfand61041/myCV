@@ -5,6 +5,7 @@
 
 ## Education
 **Temple University | Bachelor of Science in Biology**
+
 *Excpected Graduation: May 2024*
 
 
@@ -24,5 +25,11 @@
 -	Help conduct investigations into the causes of Alzheimer's disease and mascular degenaration
 -	Skills: Cell culture, Western Blotting and Protein assay
   
+## Volunteer Experience
 
+**At Your Service Program(AYS) | Temple University Hospital**
+
+*Pre-Med Volunteer* | January 2022-January 2023*
+- Engaged in pro-active non-clinical rounding on inpatient and outpatient units as well as greeting and assisting visitor throughout the hospital
+- Partner with the Patient Experience department to enhance the experience for patients and visitors by resolving issues related to the hospital
 
